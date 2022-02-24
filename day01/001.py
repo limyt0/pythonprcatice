@@ -4,4 +4,4 @@ X =torch.rand(3,4, 5)
 
 print('X.dim()', X.dim())
 print('X.shape', X.shape)
-print('X.size()', X.size())
+print('X.size()', X.size()) 
